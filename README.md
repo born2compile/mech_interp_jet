@@ -1,7 +1,7 @@
 # Dissecting Jet-Tagger Through Mechanistic Interpretability
 
 Code for the paper *Dissecting Jet-Tagger Through Mechanistic Interpretability*
-(Rai & Ganguly, IIT Kanpur, 2026).
+[arXiv:2605.09881](https://arxiv.org/abs/2605.09881).
 
 ---
 
